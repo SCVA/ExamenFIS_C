@@ -16,6 +16,6 @@ public abstract class Auto {
     private String marca;
     
     public abstract void arrancar();
-    public abstract void frenar();
-    
+    public abstract void frenar();   
 }
+
